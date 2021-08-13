@@ -3,7 +3,7 @@ Readme of all the used scripts for Updraft manuscript.
 
 * Filter source data (ECHAM): https://github.com/ECLAIRscripts/FilterSourceData
 * BSP algorithm: https://github.com/ECLAIRscripts/StateSpaceDesign
-* Designs listed: https://github.com/JaakkoAhola/DESIGN/releases
+* Designs: https://github.com/JaakkoAhola/DESIGN/
   * v3.0.0 SB microphysics during NIGHT time
   * v3.1.0 SB microphysics during DAY time
   * v3.2.4 SALSA microphysics during NIGHT time
