@@ -10,6 +10,7 @@ Readme of all the used scripts for Updraft manuscript.
   * v3.3.3 SALSA microphysics during DAY time
 * Creating inputs for training simulations based on the design: https://github.com/JaakkoAhola/LES-emulator-01prepros
 * LES runs with UCLALES-SALSA, ECLAIR branch: https://github.com/UCLALES-SALSA/UCLALES-SALSA/tree/ECLAIR
+ * DOI: 10.5281/zenodo.5289397 
 * Postprocessing training simulations: https://github.com/JaakkoAhola/LES-02postpros
 * Creating parameterisations: https://github.com/JaakkoAhola/LES-emulator-02postpros
 * Gaussian Process emulator script: https://github.com/JaakkoAhola/GPEmulatorPython
